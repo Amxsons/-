@@ -41,6 +41,16 @@ The Python script:
 2. Receives moisture levels from Arduino.
 3. Reads the category, picks a random message, and speaks it.
 
+## 🎥 Video Documentation: The Journey of **Grow Plant Grow** 🌱
+
+Watch the full video documentation of the project here:
+
+[![Grow Plant Grow Video](https://img.youtube.com/vi/16ox4b0THG-eBKAacoZPVBqhGLeGxxGDM/0.jpg)](https://drive.google.com/file/u/0/d/16ox4b0THG-eBKAacoZPVBqhGLeGxxGDM/view?usp=drivesdk&pli=1)
+
+> Click on the image above or [this link](https://drive.google.com/file/u/0/d/16ox4b0THG-eBKAacoZPVBqhGLeGxxGDM/view?usp=drivesdk&pli=1) to view the video documentation.
+
+
+
 ## Example Messages
 - **High**: "Congratulations, dear plant! You are fully hydrated and thriving!"
 - **Medium**: "You're halfway to being fully hydrated! Balance is key."
